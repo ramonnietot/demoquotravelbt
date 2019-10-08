@@ -1,0 +1,76 @@
+.qt-main .card{
+/*	border: 1px solid #cd5a21;*/
+ 
+}
+
+.qt-main .noUi-connect {
+  background: #6059f6;
+}
+.qt-main .btn-primary.disabled, .btn-primary:disabled {
+	background-color:grey;
+	border-color:grey;
+
+}
+.qt-main .btn-primary.disabled, .btn-primary:disabled:focus {
+	background-color:grey;
+	border-color:grey;
+	box-shadow:none;
+
+}
+.qt-main .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: #6059f6;
+}
+.qt-main  .custom-control-input:checked~.custom-control-label::before{
+    background-color: #6059f6;
+}
+.qt-main a{
+	color: #6059f6;
+}
+.qt-main a:hover{
+	color: #6059f6;
+}
+.qt-main a:not([href]):not([tabindex]):focus, .qt-main a:not([href]):not([tabindex]):hover, .qt-main a:not([href]):not([tabindex]) {
+	color: #6059f6;
+}
+.qt-main .card .card-title{
+	color: black;
+}
+.qt-main .card .card-text{
+	color: grey;
+}
+
+.traslados-wrapper .vc_col-sm-8 > .vc_column-inner{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.qt-main h4{
+	font-size: 30px;
+	color: #6059f6;
+	text-align: left;
+	margin: 0 0 35px 0;
+}
+.qt-main  .not-selected-header{
+	background-color:#D0CEFC;
+}
+.qt-main .activeLine{
+background-color:#D0CEFC;
+}
+.qt-main .occupation-container.button-container{
+	margin-top:10px;
+	padding-top:0;
+}
+.qt-main .button-container button.btn.btn-primary{
+display: inline-block;
+    background-color: #6059f6;
+    color: #fff;
+    border-radius: 30px;
+    padding: 8px 25px;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+padding: 12px 45px;
+}
+
